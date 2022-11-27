@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/nodejs.png" alt="NodeJS" /></a>
   <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/expressjs.png" alt="ExpressJS" /></a>
+  <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/jquery.png" alt="Jquery" /></a>
   <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/javascript.png" alt="JavaScript" /></a>
   <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/pug.png" alt="Pug" /></a>
   <a href="https://rosa.dev.br" target="_blank"><img src="https://rosa.dev.br/imagens/badges/css.png" alt="Css" /></a>
