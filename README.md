@@ -1,5 +1,5 @@
 <h3 align="center">👻 About me</h3>
-<p align="center">Hi, my name is Gabriel Rosa, I'm 21</p>
+<p align="center">Hi, my name is Gabriel Rosa, I'm 22</p>
 <p align="center">I Currently work on <a href="https://www.gov.br/cbpf/pt-br" target="_blank">CBPF</a> - Brazilian Center for Research in Physics</p>
 <hr>
 <h3 align="center">👨‍💻 My knowledge</h3>
